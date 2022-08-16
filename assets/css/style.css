@@ -314,13 +314,16 @@ footer{
     
 
     #menu a {
-        font-size: 10px; 
         margin-right:10px;
     }
     #logo{    
         font-size: 20px;
         text-align: center;
         width: 100%;
+    }
+    ul#menu {
+        margin: 0 auto;
+        width: 50%;
     }
     #right-about{
         padding: 30px;
