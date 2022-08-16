@@ -270,15 +270,13 @@ footer{
     color: #ff6d00db;
 }
 
-#button{
+.btn, #button{
     background: #ff6d00db;
     border: 0px !important;
     color: white;
     padding: 10px;
     border-radius: 5px;
 }
-
-
 
 @media screen and (min-width : 768px) and (max-width : 1024px) {
    
