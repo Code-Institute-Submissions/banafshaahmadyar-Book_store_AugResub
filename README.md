@@ -1,5 +1,6 @@
 # Book_store
 * Book store is a website for library and online book store that we can find different kind of books in this website.
+![image](https://user-images.githubusercontent.com/100950189/184987215-842ac165-c2e9-4bb1-9539-708abf6cf07a.png)
 
 # Website architecture 
  * It is a static website build with HTML and designed with CSS.
