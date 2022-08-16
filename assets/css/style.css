@@ -317,8 +317,10 @@ footer{
         font-size: 10px; 
         margin-right:10px;
     }
-    #logo{
+    #logo{    
         font-size: 20px;
+        text-align: center;
+        width: 100%;
     }
     #right-about{
         padding: 30px;
