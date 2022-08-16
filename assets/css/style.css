@@ -68,7 +68,7 @@ ul#menu{
 #image{
     height: 600px;
     width: 100%;
-   background: url('../images/lib.jpg') no-repeat center center;
+   background: url('https://th.bing.com/th/id/R.d19a25a32283da64523b1261e1060479?rik=MiSDssPD5Ss%2fqw&pid=ImgRaw&r=0') no-repeat center center;
    background-size: cover;
    animation: image-zoom;
    animation-duration: 5s;
