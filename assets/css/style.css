@@ -311,10 +311,8 @@ footer{
 }
 
 @media screen and (min-width : 300px) and (max-width : 767px) {
-    
-
     #menu a {
-        margin-right:10px;
+        margin-right:5px;
     }
     #logo{    
         font-size: 20px;
@@ -324,6 +322,10 @@ footer{
     ul#menu {
         margin: 0 auto;
         width: 50%;
+    }
+    
+    #social-media-title {
+        text-align: center;
     }
     #right-about{
         padding: 30px;
@@ -348,7 +350,17 @@ footer{
         height: unset;
     }
     .time-section{
-        width: 48%;
+        width: 100%;
+    }
+    #cover-text{
+        right: revert;
+    }
+    #gallery-photos {
+         margin-top: 90px;
+    }
+    #gallery-photos img {
+        width: 90%;
+        height: auto;
     }
 }
 
