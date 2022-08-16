@@ -362,6 +362,9 @@ footer{
         width: 90%;
         height: auto;
     }
+    h1, h2{
+        text-align:center;
+    }
 }
 
 
