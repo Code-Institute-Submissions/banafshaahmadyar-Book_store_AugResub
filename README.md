@@ -25,13 +25,13 @@
 
           -   In this section we add all information about us. that why customer or book reders shuld chose our webpage.
 
-    ![image](https://user-images.githubusercontent.com/100950189/185088074-8152161d-f28f-4a21-ae1a-cbd7468e61d8.png)
+![image](https://user-images.githubusercontent.com/100950189/185094025-439a5b3a-0202-4298-92cb-e98f45940b1d.png)
 
    **Section for time**
    
-               *Here we add that specifice time and location that we are online.
+           -   Here we add that specifice time and location that we are online.
                
-    ![image](https://user-images.githubusercontent.com/100950189/185089534-d8ad7e42-20cf-4b19-9c09-c6fe53a9c9d5.png)
+![image](https://user-images.githubusercontent.com/100950189/185093859-3f6d7cd6-153d-4254-9360-4416d9013695.png)
 
  **Section for social-media**
               
