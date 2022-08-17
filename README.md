@@ -61,14 +61,14 @@
       
 ![image](https://user-images.githubusercontent.com/100950189/185097163-dfbadb76-8e70-4794-aba3-7b319c309a42.png)
 
- **Testing**
+ ## Testing
  
-	- **Responsiveness**
+	- * Responsiveness
 	
 	 - The website is made fully responsive from the largest screen to the smallest mobile screen size of 280px.
 	   this was tested using the lighthouse tools of chrome, firefox, microsoft edge and safari.
 	   
-       - **Accessibility**
+       - * Accessibility
        
        	   As its important that people wiht disabilities have the chance of using the web, this site also gives 
 	   significant consideration to its accessibility.
