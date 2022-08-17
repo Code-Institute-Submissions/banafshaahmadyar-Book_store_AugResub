@@ -40,11 +40,14 @@
    ![image](https://user-images.githubusercontent.com/100950189/185091095-e40aef01-9aaa-4624-ba94-b4ced07cbaa9.png)
 
 ##  Gallery
-          *On gallery we have three part that header and footer I mention before and other part is our lovely moment in our BOOK_STORE.
+          * On gallery we have three part that header and footer I mention before and other part is our lovely moment in our BOOK_STORE.
           
 ![image](https://user-images.githubusercontent.com/100950189/185095354-fccedb1f-d3bc-40ae-b456-2838f490025a.png)
 
-
+## SIGNIN
+         * On sign in we want to have short information about our author .
+         
+![image](https://user-images.githubusercontent.com/100950189/185096310-3d4db98f-d37f-4209-a842-af13a6984057.png)
 
 
 
