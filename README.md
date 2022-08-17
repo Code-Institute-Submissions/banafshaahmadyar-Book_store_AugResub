@@ -7,7 +7,7 @@
 
  # Existing section on HOME page
  
-           *On home page you will find information about our book store for example : Location of our book stores ,reasons to buy book form us and our store opens hours .
+         -  On home page you will find information about our book store for example : Location of our book stores ,reasons to buy book form us and our store opens hours .
 
    **Header section**
 
