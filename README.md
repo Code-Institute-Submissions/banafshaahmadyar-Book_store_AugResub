@@ -40,21 +40,23 @@
    ![image](https://user-images.githubusercontent.com/100950189/185091095-e40aef01-9aaa-4624-ba94-b4ced07cbaa9.png)
 
 ##  Gallery
-          * On gallery we have three part that header and footer I mention before and other part is our lovely moment in our BOOK_STORE.
+        -   On gallery we have three part that header and footer I mention before and other part is our lovely moment in our BOOK_STORE.
+           On gallery page we added our lovely moments with our customers and readers.
+
           
 ![image](https://user-images.githubusercontent.com/100950189/185095354-fccedb1f-d3bc-40ae-b456-2838f490025a.png)
 
 ## SIGNIN
-         * On sign in we want to have short information about our author .
+
+      - On sign in page any one interasted to our book store can fill the form and join us. 
          
 ![image](https://user-images.githubusercontent.com/100950189/185096310-3d4db98f-d37f-4209-a842-af13a6984057.png)
 
 
 
- On gallery page we added our lovely moments with our customers and readers.
- * Sign in:
- On sign in page any one interasted to our book store can fill the form and join us. 
- * sign up:
-On sign up page you can register yourself in book store.
-# Follow us
-On follow us that at the end of each page we added you can follow us on social media page like (Facebook,Twiter,Youtube,Instagram )
+ 
+ ## sign up
+ 
+      -  On sign up page you can register yourself in book store.
+      
+![image](https://user-images.githubusercontent.com/100950189/185097163-dfbadb76-8e70-4794-aba3-7b319c309a42.png)
