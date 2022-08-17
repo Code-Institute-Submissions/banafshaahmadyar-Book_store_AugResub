@@ -2,8 +2,7 @@
 * Book store is a website for library and online book store that we can find different kind of books in this website.
 ![image](https://user-images.githubusercontent.com/100950189/184987215-842ac165-c2e9-4bb1-9539-708abf6cf07a.png)
 
-# Website architecture 
-           * It is a static website build with HTML and designed with CSS.
+# Website architecture  * It is a static website build with HTML and designed with CSS.
 
  # Existing section on HOME page
  
@@ -77,3 +76,22 @@
 	   - Significant contrast between foreground and background colors.
 	   - Clear association of labels to their respective input fields, such as positioning them adjacent to 
 	     each other and connecting them with some classes.
+	     
+	     
+	     
+## Validator Testing
+* HTML 
+       [No errors were returned when passing through the official](W3C validator)
+       
+       
+* CSS 
+       [NO errors were found when passing through the official](jigsaw validator)   
+       
+## Deployment 
+
+     - The site was deployed to Github Pages. The steps are as follows:
+        In the Githop desktop application, navigate to the File tab 
+        Add local repository section. select the folder of local repository from pop up
+	then push it from navigation bar section.
+	
+        Live site link ( https://banafshaahmadyar.github.io/Book_store/ )
