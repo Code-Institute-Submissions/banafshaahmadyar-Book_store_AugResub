@@ -7,11 +7,11 @@
 
  # Existing features
  
-   *HOME 
-:On home page you will find information about our book store for example : Location of our book stores ,reasons to buy book form us and our store opens hours .
+  * HOME 
+    On home page you will find information about our book store for example : Location of our book stores ,reasons to buy book form us and our store opens hours .
 
-    *HEADER
-   *On header we have LOGO of our wepage and also we have four section that each section related to a specifice page.
+    * HEADER
+    On header we have LOGO of our wepage and also we have four section that each section related to a specifice page.
 ![image](https://user-images.githubusercontent.com/100950189/185083580-8a1a1a75-f82a-4f7d-9edd-5e3f8ca38abc.png)
 
 
