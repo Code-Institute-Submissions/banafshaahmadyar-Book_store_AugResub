@@ -39,12 +39,15 @@
               
    ![image](https://user-images.githubusercontent.com/100950189/185091095-e40aef01-9aaa-4624-ba94-b4ced07cbaa9.png)
 
+##  Gallery
+          *On gallery we have three part that header and footer I mention before and other part is our lovely moment in our BOOK_STORE.
+          
+![image](https://user-images.githubusercontent.com/100950189/185095354-fccedb1f-d3bc-40ae-b456-2838f490025a.png)
 
 
 
 
 
- * Gallery:
  On gallery page we added our lovely moments with our customers and readers.
  * Sign in:
  On sign in page any one interasted to our book store can fill the form and join us. 
