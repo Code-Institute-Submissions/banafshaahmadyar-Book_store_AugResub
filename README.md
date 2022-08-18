@@ -56,7 +56,7 @@
 
 
  
- ## sign up
+ ## SIGNUP
  
       -  On sign up page you can register yourself in book store.
       
