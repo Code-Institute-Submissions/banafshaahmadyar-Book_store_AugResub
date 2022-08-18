@@ -87,7 +87,9 @@
        
        
 * CSS 
-       [NO errors were found when passing through the official](jigsaw validator)   
+       [NO errors were found when passing through the official](jigsaw validator) 
+       
+![image](https://user-images.githubusercontent.com/100950189/185331491-53c1e784-ebc9-487e-b4c6-245c4061498e.png)
        
 ## Deployment 
 
